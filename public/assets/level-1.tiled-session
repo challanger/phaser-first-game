@@ -1,0 +1,101 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-1.tmx",
+    "expandedProjectPaths": [
+        "/Users/appleuser/Code/Phaser/move-test/public",
+        "/Users/appleuser/Code/Phaser/move-test/public/levels",
+        ".",
+        "/Users/appleuser/Code/Phaser/move-test/public/tilesets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/level-1.tmx": {
+            "scale": 1.1482,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 261.27852290541716,
+                "y": 290.45462462985546
+            }
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/level-1.tmx#Natural": {
+            "scaleInDock": 1
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test..tmx": {
+            "scale": 0.33962499999999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800.8833271991167,
+                "y": 802.3555391976445
+            }
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test..tmx#Natural": {
+            "scaleInDock": 1
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test.tmx": {
+            "scale": 1.01,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 126.73267326732673,
+                "y": 43.069306930693074
+            }
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test.tmx#Grass": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test.tmx#Natural": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-1.tmx": {
+            "scale": 1.3617,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1186.7518542997725,
+                "y": 147.97679371374016
+            }
+        },
+        "level-1.tmx#Natural": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.tmx": {
+            "scale": 0.7801,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 987.0529419305217,
+                "y": 678.7591334444301
+            }
+        },
+        "main.tmx#Natural": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/appleuser/Code/Phaser/move-test/public/assets",
+    "last.imagePath": "/Users/appleuser/Code/Phaser/move-test/public/assets",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "level-1.tmx"
+    ],
+    "project": "level-1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "main.tmx",
+        "level-1.tmx",
+        "/Users/appleuser/Code/Phaser/move-test/public/level-1.tmx",
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test.tmx",
+        "/Users/appleuser/Code/Phaser/move-test/public/move-test..tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.type": 0
+}
